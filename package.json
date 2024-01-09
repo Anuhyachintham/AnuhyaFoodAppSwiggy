@@ -1,0 +1,24 @@
+{
+  "name": "reactpro-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel.index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@parcel/transformer-react-refresh-wrap": "^2.10.3",
+    "parcel": "^2.10.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.32",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.0"
+  }
+}
